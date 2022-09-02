@@ -1,0 +1,4 @@
+name: Armored.elytra
+version: '${project.version}'
+main: me.spigotplugins.armored.elytra.Armored.elytra
+api-version: 1.19
